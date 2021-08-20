@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Login_Register</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="textview32">Join Us and Improve your Farm</string>
+    <string name="addFarmText">Add your farm with us to get help from Krushi Doctor and protect your farm</string>
+    <string name="cropName">Name of the crop</string>
+    <string name="date">Sowing Time</string>
+    <string name="area">Area of your Farm</string>
+    <string-array name="cropList">
+        <item>Crop</item>
+        <item>Soybean</item>
+        <item>Cotton</item>
+        <item>Paddy</item>
+        <item>Onion</item>
+        <item>Wheat</item>
+        <item>Jowar</item>
+        <item>Maize</item>
+        <item>Ginger</item>
+    </string-array>
+    <string-array name="week">
+        <item>Week</item>
+        <item>1st Week</item>
+        <item>2nd Week</item>
+        <item>3rd Week</item>
+        <item>4th Week</item>
+        <item>5th Week</item>
+    </string-array>
+    <string-array name="month">
+        <item>Month</item>
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+</resources>
